@@ -10,10 +10,14 @@
   "dependencies": {
     "expo": "~42.0.1",
     "expo-status-bar": "~1.0.4",
+    "moti": "^0.12.3",
     "prismjs": "^1.24.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-native": "https://github.com/expo/react-native/archive/sdk-42.0.0.tar.gz",
+    "react-native-chart-kit": "^6.11.0",
+    "react-native-reanimated": "~2.2.0",
+    "react-native-svg": "^12.1.1",
     "react-native-tailwindcss": "^1.1.11",
     "react-native-web": "~0.13.12",
     "react-simple-code-editor": "^0.11.0"
